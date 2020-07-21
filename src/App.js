@@ -5,7 +5,7 @@ function App (props) {
   console.log(props)
   return (
     <main className='App'>
-      <Participants />
+      <Participants color= 'green'/>
     </main>
   );
 }
